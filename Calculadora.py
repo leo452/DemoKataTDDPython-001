@@ -1,5 +1,5 @@
 _author_ = 'leo'
 
 class Calculadora:
-    def sumar(cadena):
-        pass
+    def sumar(self,cadena):
+        return 0
